@@ -1,6 +1,6 @@
-const char* ssid = "yourssid";
-const char* password = "yourpassword";
-const char* mqttClientName = "yourArduinoClient";
-const char* mqttUserName = "yourmqttuser";
-const char* mqttPassword = "yourmqttPassword";
+const char* ssid = "your1ssid";
+const char* password = "your1password";
+const char* mqttClientName = "your1ArduinoClient";
+const char* mqttUserName = "your1mqttuser";
+const char* mqttPassword = "your1mqttPassword";
  
