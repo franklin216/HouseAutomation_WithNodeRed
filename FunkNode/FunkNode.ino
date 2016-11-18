@@ -15,7 +15,7 @@ void setup() {
 	// Transmitter is connected to NodeMCU Pin #15  
 	mySwitch.enableTransmit(15);//nodemcu
 	Serial.begin(9600);
-	Serial.println("Starte Serial 1");
+	Serial.println("Starte Serial");
 
 	delay(10);
 	// We start by connecting to a WiFi network
