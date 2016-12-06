@@ -4,7 +4,8 @@ My Houseautomation with Node-Red
 
 There is the Library WiFiConstants.h in the Code. It is where i store my Constants for WiFi and MQTT. It looks like this:
 
-/*
+...
+  /*
   WiFiConstants.h - Library for your own Wifi and MQTT Constants.
 
   This library is free software; you can redistribute it and/or
@@ -38,4 +39,4 @@ const IPAddress mqttServer(192, 168, 1, 44);
 const int mqttPort = 1883;
 
 #endif
-
+...
